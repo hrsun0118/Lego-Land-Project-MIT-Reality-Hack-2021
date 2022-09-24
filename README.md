@@ -1,7 +1,6 @@
 # Lego Land Team
 * [Lego Land Project Link on VRChat Platform](https://vrchat.com/home/launch?worldId=wrld_22eeb9da-9c9f-43c3-bac0-99544c04ecd7)
-* [Lego Land Presentation Link](https://docs.google.com/presentation/d/1kDvLxX-uCuwvd3xbxuLPkpVYSP_Fvw5b/edit?usp=sharing&ouid=115498708412021760091&rtpof=true&sd=true)
-* [Lego Land World Link - Initial Product](https://vrchat.com/home/launch?worldId=wrld_22eeb9da-9c9f-43c3-bac0-99544c04ecd7)
+* [Lego Land Presentation Link](https://github.com/hrsun0118/Lego-Land-Project-MIT-Reality-Hack-2021/blob/main/Presentation/LegoLand%20Showcase%20Presentation.pptx)
 
 ## Unity Version
 Unity version: 2019.4.31f1- Current version thats compatible with VRChat
